@@ -13,7 +13,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>This is the "About" page.</h1>
+        <h1 className={styles.title}>This is the &quot;About&quot; page.</h1>
 
         <p className={styles.description}>
           Since you can see this, it means either this environment did not
